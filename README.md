@@ -1,4 +1,5 @@
 # Traffic-Signs-Classifer
+<pre>
 Convoloutional Neural network that identifies traffic signs using TensorFlow and OpenCV
 
 This CNN classifies 50, 000+ images of different traffic signs. I am using OpenCV to process the images and then using a nerual network created with TensorFlow for classification. Running this program gives an accuracy of around ~95%. This neural net uses two convoloutional layers (32 filters, 3x3 kernal), two max-pooling layers (2x2), and a hidden layer with 256 neurons with a 50% dropout rate. Below is some of my notes from my testing of this CNN.
@@ -18,3 +19,4 @@ This CNN classifies 50, 000+ images of different traffic signs. I am using OpenC
 *The dataset is from the German Traffic Sign Recogniction Benchmark (gtsrb). http://benchmark.ini.rub.de/?section=gtsrb&subsection=news
 
 *This project was created as a part of the online Harvard CS50-AI Course. https://cs50.harvard.edu/ai/2020/
+</pre>
