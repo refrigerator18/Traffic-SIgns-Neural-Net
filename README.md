@@ -15,6 +15,10 @@ This CNN classifies 50, 000+ images of different traffic signs. I am using OpenC
 • Now trying with two conv layers, both making 32 3x3 filters and two max pooling layers with a poolsize of 2x2, with a hidden layer of 256 neurons, gave me the best accuracy so far of 0.9596. The problem is this one was relatively slow, due to the hidden layer size.  
   
 ## 
-  
+[
+<img width="932" alt="Screen Shot 2020-08-11 at 4 21 26 PM" src="https://user-images.githubusercontent.com/57844356/89955067-75e79780-dbef-11ea-95d1-e9b1df797f60.png">
+](url)
+##
+
 *The dataset is from the German Traffic Sign Recognition Benchmark (gtsrb). http://benchmark.ini.rub.de/?section=gtsrb&subsection=news
 This project was created as a part of the online Harvard CS50-AI Course. https://cs50.harvard.edu/ai/2020/*
