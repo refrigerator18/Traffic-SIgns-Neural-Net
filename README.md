@@ -12,7 +12,7 @@ This CNN classifies 50, 000+ images of different traffic signs. I am using OpenC
 
 • using a convolution layer of 4x4 significantly increased the accuracy to 0.9579. Interestingly increasing  the hidden layers neurons to 248 with this  4x4 layer actually decreased accuracy slightly to 0.9341. Overfitting? 
 
-• Now trying with two conv layers, both making 32 4x4 filters and two max pooling layers with a poolsize of 2x2, with a hidden layer of 256 neurons, gave me the best accuracy so far of 0.9596. The problem is this one was relatively slow, due to the hidden layer size.  
+• Now trying with two conv layers, both making 32 3x3 filters and two max pooling layers with a poolsize of 2x2, with a hidden layer of 256 neurons, gave me the best accuracy so far of 0.9596. The problem is this one was relatively slow, due to the hidden layer size.  
   
 ## 
   
