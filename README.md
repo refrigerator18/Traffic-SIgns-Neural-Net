@@ -2,7 +2,7 @@
 
 Convolutional Neural network that identifies traffic signs using TensorFlow and OpenCV
 
-This CNN classifies 50, 000+ images of different traffic signs. I am using OpenCV to process the images and then using a neural network created with TensorFlow for classification. Running this program gives an accuracy of around ~95%. This neural net uses two convolutional layers (32 filters, 3x3 kernal), two max-pooling layers (2x2), and a hidden layer with 256 neurons with a 50% dropout rate. Below is some of my notes from my testing of this CNN.  
+This CNN classifies 50, 000+ images of different traffic signs. I am using OpenCV to process the images and then using a neural network created with TensorFlow for classification. Running this program with 15 epochs gives an accuracy of around ~95%. This neural net uses two convolutional layers (32 filters, 3x3 kernal), two max-pooling layers (2x2), and a hidden layer with 256 neurons with a 50% dropout rate. Below is some of my notes from my testing of this CNN.  
 
 ## 
 
