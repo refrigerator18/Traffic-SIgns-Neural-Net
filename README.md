@@ -21,4 +21,4 @@ This CNN classifies 50, 000+ images of different traffic signs. I am using OpenC
 ##
 
 *The dataset is from the German Traffic Sign Recognition Benchmark (gtsrb). http://benchmark.ini.rub.de/?section=gtsrb&subsection=news
-This project was created as a part of the online Harvard CS50-AI Course. https://cs50.harvard.edu/ai/2020/*
+
